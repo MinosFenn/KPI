@@ -1,0 +1,16 @@
+#toasts-portal {
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 30px;
+  }
+  
+  .toast {
+    border-radius: 4px;
+    padding: 10px 20px;
+  }
+  
